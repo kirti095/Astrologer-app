@@ -61,15 +61,16 @@ The Astrologer App is a web-based application designed to provide users with inf
 
 **Contributing**
 
-   Contributions are welcome! If you have suggestions, improvements, or find bugs, please open an issue or submit a pull request.
+   Contributions are welcome!
+   If you have suggestions, improvements, or find bugs, please open an issue or submit a pull request.
 
 
 ## To contribute:
 
-  1.Fork the repository.
-  2.Create a new branch for your feature or fix.
-  3.Commit your changes and push to your branch.
-  4.Open a pull request with a description of your changes.  
+1.Fork the repository.
+2.Create a new branch for your feature or fix.
+3.Commit your changes and push to your branch.
+4.Open a pull request with a description of your changes.  
 
 
 **License**
@@ -83,4 +84,4 @@ The Astrologer App is a web-based application designed to provide users with inf
 
 **Contact**
 
-For any questions or feedback, please reach out to me on [GitHub](https://github.com/kirti095).
+   For any questions or feedback, please reach out to me on [GitHub](https://github.com/kirti095).
