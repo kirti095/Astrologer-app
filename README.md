@@ -42,21 +42,21 @@ The Astrologer App is a web-based application designed to provide users with inf
    The app utilizes external libraries:
 
   * [Bootstrap](https://getbootstrap.com/) for responsive design
-  * `Font Awesome` for icons
-  * `jQuery Modal` for modal functionality
-  * `AOS (Animate On Scroll)` for scroll animations.
+  * [Font Awesome](https://fontawesome.com/) for icons
+  * [jQuery Modal](https://www.jquerymodal.com/) for modal functionality
+  * [AOS (Animate On Scroll)](https://michalsnik.github.io/aos/) for scroll animations.
 
 4. Customization:
 
 ## To customize the app:
 
-  * Modify style.css and index.css to change the appearance.
-  * Update app.js to adjust interactions and dynamic content.
-  * Edit index.html and index1.html for changes to the structure and content.
+  * Modify `style.css` and `index.css` to change the appearance.
+  * Update `app.js` to adjust interactions and dynamic content.
+  * Edit `index.html` and `index1.html` for changes to the structure and content.
 
 **Usage**
-  * Select Your Zodiac Sign: Click on any zodiac sign image to open the modal with detailed information.
-  * View Details: The modal displays information including lucky time, lucky number, color, mood, and a description of the sign.
+  *  Select Your Zodiac Sign: Click on any zodiac sign image to open the modal with detailed information.
+  *  View Details: The modal displays information including lucky time, lucky number, color, mood, and a description of the sign.
 
 **Contributing**
    Contributions are welcome! If you have suggestions, improvements, or find bugs, please open an issue or submit a pull request.
@@ -69,10 +69,10 @@ The Astrologer App is a web-based application designed to provide users with inf
   4.Open a pull request with a description of your changes.  
 
 **License**
-    This project is licensed under the MIT License - see the `LICENSE` file for details.
+    This project is licensed under the MIT License - see the [LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for details.
 
 **Acknowledgments**
-     Kirti Solanki: Designed and developed by Kirti095.
+     Kirti Solanki: Designed and developed by [Kirti Solanki](https://github.com/kirti095).
 
 **Contact**
-For any questions or feedback, please reach out to me on GitHub[`https://github.com/kirti095`].
+For any questions or feedback, please reach out to me on [GitHub](https://github.com/kirti095).
