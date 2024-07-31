@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+}
+
+img {
+    height: 80rem;
+    width: 85rem;
+}
+
+.container {
+    background-color:azure;
+}
+
+.container h1 {
+    font-size: 53px;
+    color: rgb(255, 0, 8);
+    margin-top: auto;
+}
+
+.about {
+    height: 430px;
+    padding: 0%;
+    text-align: center;
+    font-size: x-large;
+    background-color:#a3c2c2;
+}
+.about button {
+    font-size: x-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
