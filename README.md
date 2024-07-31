@@ -41,7 +41,7 @@ The Astrologer App is a web-based application designed to provide users with inf
 
    The app utilizes external libraries:
 
-  * Bootstrap](https://getbootstrap.com/) for responsive design
+  * [Bootstrap](https://getbootstrap.com/) for responsive design
   * `Font Awesome` for icons
   * `jQuery Modal` for modal functionality
   * `AOS (Animate On Scroll)` for scroll animations.
