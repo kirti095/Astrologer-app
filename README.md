@@ -66,10 +66,10 @@ The Astrologer App is a web-based application designed to provide users with inf
 
 
 ## To contribute:
-1.Fork the repository.
-2.Create a new branch for your feature or fix.
-3.Commit your changes and push to your branch.
-4.Open a pull request with a description of your changes.  
+  * Fork the repository.
+  *  Create a new branch for your feature or fix.
+  *  Commit your changes and push to your branch.
+  *  Open a pull request with a description of your changes.  
 
 
 ## License
