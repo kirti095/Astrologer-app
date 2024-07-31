@@ -54,34 +54,33 @@ The Astrologer App is a web-based application designed to provide users with inf
   * Update `app.js` to adjust interactions and dynamic content.
   * Edit `index.html` and `index1.html` for changes to the structure and content.
 
-**Usage**
+## Usage
   *  Select Your Zodiac Sign: Click on any zodiac sign image to open the modal with detailed information.
   *  View Details: The modal displays information including lucky time, lucky number, color, mood, and a description of the sign.
 
 
-**Contributing**
+## Contributing
 
    Contributions are welcome!
    If you have suggestions, improvements, or find bugs, please open an issue or submit a pull request.
 
 
 ## To contribute:
-
 1.Fork the repository.
 2.Create a new branch for your feature or fix.
 3.Commit your changes and push to your branch.
 4.Open a pull request with a description of your changes.  
 
 
-**License**
+## License
 
    This project is licensed under the MIT License - see the [LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for details.
 
 
-**Acknowledgments**
+## Acknowledgments
 
    Kirti Solanki: Designed and developed by [Kirti Solanki](https://github.com/kirti095).
 
-**Contact**
+## Contact
 
    For any questions or feedback, please reach out to me on [GitHub](https://github.com/kirti095).
